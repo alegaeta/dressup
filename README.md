@@ -4,7 +4,7 @@
 
 This repository _simply_ exists for a **test** website.
 
-*one
-*two
+* one
+* two
 
 [my website](gmail.com)
