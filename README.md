@@ -2,7 +2,7 @@
 ## website
 ### kind of
 
-This repository _simply_ exists for a *test* website.
+This repository _simply_ exists for a **test** website.
 
 *one
 *two
